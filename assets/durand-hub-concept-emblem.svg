@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc">
+<title id="title">The Durand Hub — concept emblem</title><desc id="desc">Black and antique gold circular seal with bread and pastry illustrations and the words The Durand Hub, A Place to Gather. This is a vector interpretation, not the owners' original logo.</desc>
+<defs><radialGradient id="metal"><stop stop-color="#f7d996"/><stop offset=".45" stop-color="#bd9250"/><stop offset=".8" stop-color="#ffe7ab"/><stop offset="1" stop-color="#9b6d2f"/></radialGradient></defs>
+<circle cx="300" cy="300" r="292" fill="#030303"/><circle cx="300" cy="300" r="277" fill="none" stroke="url(#metal)" stroke-width="7"/><circle cx="300" cy="300" r="264" fill="none" stroke="#bd9857" stroke-width="2"/>
+<g fill="none" stroke="#d5aa62" stroke-linecap="round" stroke-linejoin="round">
+<path d="M138 257c15-33 42-39 71-20 9-24 43-28 57-6 23-7 50 1 58 24-31 20-61 23-94 15-31 8-64 8-92-13z" stroke-width="7"/><path d="M160 243c19-11 35-14 50-7m12-1c17-9 34-8 48 0m-109 20c38 16 70 17 102 4" stroke-width="3"/>
+<path d="M317 244c17-45 87-45 110 4-9 23-29 33-58 32-27-2-48-13-52-36z" stroke-width="7"/><path d="M340 233l14 25m12-33 10 31m14-28 7 22" stroke-width="4"/>
+<path d="M438 242q8-34 29-23c6 4 9 12 9 23-14 15-29 17-38 0z" stroke-width="6"/>
+<path d="M130 290h340" stroke-width="2"/>
+</g>
+<g font-family="Georgia, 'Times New Roman', serif" text-anchor="middle" fill="url(#metal)">
+<text x="300" y="336" font-size="31" letter-spacing="14">THE</text><text x="300" y="410" font-size="76" letter-spacing="5">DURAND</text><text x="300" y="476" font-size="61" letter-spacing="13">HUB</text></g>
+<path d="M125 492h100m150 0h100" stroke="#bd9857" stroke-width="3"/>
+<path id="arc" d="M112 492a214 214 0 0 0 376 0" fill="none"/>
+<text font-family="Arial,sans-serif" font-size="20" letter-spacing="6" fill="#d5aa62" text-anchor="middle"><textPath href="#arc" startOffset="50%">A PLACE TO GATHER</textPath></text>
+</svg>
