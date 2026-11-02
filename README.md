@@ -52,3 +52,16 @@ The screenshots also show the business contact **thedurandhub@gmail.com**, a pro
 - Accessible mobile navigation, Escape key dismissal, reduced-motion preference, page-not-found fallback, favicon, and social metadata.
 - A `noindex` robots meta tag is intentionally set while this is an **unapproved independent concept**. Remove it only with the owners' approval before an official public launch.
 - Original logo / photo assets, actual menus, business hours, online ordering, official bookings and a fully automatic server-handled contact form are **not** included because they require owner-provided facts, permissions, or additional services. Do not claim these are live.
+
+## Research and visitor-ready features (November 2026)
+
+- Research-backed location: **419 N. Center Street, Durand, IL 61024**. Verify before business ownership transfer.
+- Embedded Google Maps, driving directions and a standalone [contact page](contact.html).
+- Published business email: `thedurandhub@gmail.com`. No publicly verified telephone number, opening hours, or confirmed opening date.
+- Contact form, private-event inquiries and careers use free `mailto:` workflows; **site does not automatically send or store messages**.
+- Background information cites Rock River Current (Jan 26, 2026), public Durand development records and the business's own site. WhoGoin listing was supplied but could not be independently retrieved, so no unverified information was copied.
+- Current business logo is not yet available as original licensed files, and illustrations remain concept assets.
+
+### Before sending this to the owners
+
+The preview is branded **independent proposal, not official website**, includes `noindex` while it awaits authorization, and should not be attached to the business's official domain without approval. Offer ownership of the finished repository and hosting configuration after content review.
