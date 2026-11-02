@@ -37,3 +37,9 @@ Open `index.html` in a browser. No build tools or paid dependencies required.
 GitHub repository → Settings → Pages → Deploy from a branch → `main` / `/ (root)`. GitHub Pages is not automatically enabled by this commit.
 
 Built by [Bradley Matera](https://bradleymatera.dev).
+
+## Branding reference (2 November 2026)
+
+The site now reflects user-provided screenshots of the business's current coming-soon, about, and contact pages. Those show a black and antique-gold circular 'The Durand HUB / A Place To Gather' mark, charcoal smoke-pattern artwork, an almost-white page background, large golden-yellow contact panel, and minimalist serif typography. The concept adopts that palette and contains an original **vector approximation**, `assets/durand-hub-concept-emblem.svg`, **not an exact copy of the official logo**. The official website did not expose downloadable original image assets through the available tools. Original asset files and rights/owner approval are needed to replace the temporary artwork in an official launch.
+
+The screenshots also show the business contact **thedurandhub@gmail.com**, a projected fall 2026 opening, and hiring for baker, cook, bartender, event coordinator and support staff. Those details may change; verify with the owners before final publication.
