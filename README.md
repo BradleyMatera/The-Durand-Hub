@@ -14,7 +14,7 @@ Open `index.html` in a browser. No build tools or paid dependencies required.
 - Project background and story
 - Bakery, café, speakeasy and event sections
 - Concept gallery, location and directions
-- Accessible, keyboard-friendly contact-form demonstration
+- Accessible, keyboard-friendly inquiry form that opens a pre-addressed email
 - Basic SEO metadata, reduced-motion support
 - GitHub Pages compatible static site
 
@@ -23,7 +23,7 @@ Open `index.html` in a browser. No build tools or paid dependencies required.
 1. Obtain approval from Bobbie and Bill Ziesk and permission to use the business name and branding.
 2. Replace illustrative stock images with authorized, original photos of the property, food and spaces. External Unsplash images are currently loaded by URL.
 3. Confirm the exact address, opening date, hours, menus, pricing, booking information and venue capacity.
-4. Obtain an official business email and connect a secure contact form with anti-spam/privacy protections. **The current demo form does not send data.**
+4. Obtain an official business email and connect a secure contact form with anti-spam/privacy protections. **Email inquiry uses a mailto: link; it opens the visitor’s email application, which must complete sending. No backend or API fee.**
 5. Replace concept disclaimers when authorized, and review all copy with the owners.
 6. Configure a custom domain only with the owners' authorization.
 
@@ -34,7 +34,7 @@ Open `index.html` in a browser. No build tools or paid dependencies required.
 
 ## Deploy
 
-GitHub repository → Settings → Pages → Deploy from a branch → `main` / `/ (root)`. GitHub Pages is not automatically enabled by this commit.
+GitHub repository → Settings → Pages → Deploy from a branch → `main` / `/ (root)`. GitHub Pages is configured with `.github/workflows/deploy.yml` to deploy the `main` branch on push.
 
 Built by [Bradley Matera](https://bradleymatera.dev).
 
@@ -43,3 +43,12 @@ Built by [Bradley Matera](https://bradleymatera.dev).
 The site now reflects user-provided screenshots of the business's current coming-soon, about, and contact pages. Those show a black and antique-gold circular 'The Durand HUB / A Place To Gather' mark, charcoal smoke-pattern artwork, an almost-white page background, large golden-yellow contact panel, and minimalist serif typography. The concept adopts that palette and contains an original **vector approximation**, `assets/durand-hub-concept-emblem.svg`, **not an exact copy of the official logo**. The official website did not expose downloadable original image assets through the available tools. Original asset files and rights/owner approval are needed to replace the temporary artwork in an official launch.
 
 The screenshots also show the business contact **thedurandhub@gmail.com**, a projected fall 2026 opening, and hiring for baker, cook, bartender, event coordinator and support staff. Those details may change; verify with the owners before final publication.
+
+## Free, functioning preview (November 2026)
+
+- Hosted with GitHub Pages, with automatic Actions deployment.
+- Inquiry form prepares an email to the published `thedurandhub@gmail.com` address and has a Copy message fallback. Sending requires the visitor's email application; no server receives or saves messages.
+- Careers section includes a direct mailto link for résumé inquiries.
+- Accessible mobile navigation, Escape key dismissal, reduced-motion preference, page-not-found fallback, favicon, and social metadata.
+- A `noindex` robots meta tag is intentionally set while this is an **unapproved independent concept**. Remove it only with the owners' approval before an official public launch.
+- Original logo / photo assets, actual menus, business hours, online ordering, official bookings and a fully automatic server-handled contact form are **not** included because they require owner-provided facts, permissions, or additional services. Do not claim these are live.
